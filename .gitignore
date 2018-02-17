@@ -1,0 +1,9 @@
+.vscode/*
+
+code/*
+input/*
+!input/README.md
+notebooks/*
+!notebooks/fastai_nn_embedding.ipynb
+submissions/*
+!submissions/README.md
