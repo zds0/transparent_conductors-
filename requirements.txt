@@ -54,7 +54,7 @@ progressbar2==3.34.3
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==1.8.1
 pyparsing==2.2.0
 pyperclip==1.6.0
